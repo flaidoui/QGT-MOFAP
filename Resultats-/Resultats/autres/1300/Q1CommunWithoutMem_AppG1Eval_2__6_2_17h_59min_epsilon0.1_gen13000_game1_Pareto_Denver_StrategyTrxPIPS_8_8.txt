@@ -1,0 +1,3 @@
+############### Game theory approach #################
+max_gen : 13000
+Instance : Denver

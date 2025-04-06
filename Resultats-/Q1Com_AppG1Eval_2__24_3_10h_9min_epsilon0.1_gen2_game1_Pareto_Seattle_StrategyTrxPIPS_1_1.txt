@@ -1,0 +1,22 @@
+############### Game theory approach #################
+max_gen : 2
+Instance : Seattle
+Epsilon : 0.1
+Temps d'execution : 16.932 ms
+ ========Hypervolume====
+ HV % :90.3913
+ ========================
+ ============================
+Le nombre de bonnes solutions trouvées : 2. Ces solutions sont : 
+ (IC ; SC) : 22052.5 ; 3
+ (IC ; SC) : 10522.6 ; 62
+#########################
+
+......Les valeurs de nash pour Tout l'ensemble des solutions...
+
+Num Sol, NASHEJ[k] , Interf cost , Sep cost 
+
+..........................
+
+0 , 1.09573 , 22052.5 , 3
+1 , 19.6667 , 10522.6 , 62

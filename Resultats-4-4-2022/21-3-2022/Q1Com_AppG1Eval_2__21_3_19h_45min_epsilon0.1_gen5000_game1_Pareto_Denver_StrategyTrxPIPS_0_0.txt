@@ -1,0 +1,4 @@
+############### Game theory approach #################
+max_gen : 5000
+Instance : Denver
+Epsilon : 0.1

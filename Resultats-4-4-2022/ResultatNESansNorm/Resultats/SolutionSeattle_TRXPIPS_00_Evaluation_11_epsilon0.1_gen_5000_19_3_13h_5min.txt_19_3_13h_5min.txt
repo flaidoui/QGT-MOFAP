@@ -1,0 +1,1947 @@
+ ===========================solution detailed ===========================================
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°° 
+
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°° 
+ TRX: 0 a pris la fréquence: 603
+ TRX: cout parttiel 19611.9 ; 56
+ TRX: 1 a pris la fréquence: 597
+ TRX: cout parttiel 17535.3 ; 48
+ TRX: 2 a pris la fréquence: 602
+ TRX: cout parttiel 210.927 ; 7
+ TRX: 3 a pris la fréquence: 598
+ TRX: cout parttiel 184.866 ; 5
+ TRX: 4 a pris la fréquence: 604
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 5 a pris la fréquence: 593
+ TRX: cout parttiel 2.75075 ; 2
+ TRX: 6 a pris la fréquence: 605
+ TRX: cout parttiel 423.114 ; 13
+ TRX: 7 a pris la fréquence: 601
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 8 a pris la fréquence: 591
+ TRX: cout parttiel 0.371325 ; 2
+ TRX: 9 a pris la fréquence: 593
+ TRX: cout parttiel 0.371325 ; 2
+ TRX: 10 a pris la fréquence: 597
+ TRX: cout parttiel 0.371325 ; 2
+ TRX: 11 a pris la fréquence: 603
+ TRX: cout parttiel 7769.7 ; 29
+ TRX: 12 a pris la fréquence: 596
+ TRX: cout parttiel 210.079 ; 7
+ TRX: 13 a pris la fréquence: 591
+ TRX: cout parttiel 18006.1 ; 52
+ TRX: 14 a pris la fréquence: 602
+ TRX: cout parttiel 210.079 ; 7
+ TRX: 15 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 16 a pris la fréquence: 595
+ TRX: cout parttiel 2.75075 ; 2
+ TRX: 17 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 18 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 19 a pris la fréquence: 594
+ TRX: cout parttiel 45.7407 ; 2
+ TRX: 20 a pris la fréquence: 592
+ TRX: cout parttiel 45.754 ; 2
+ TRX: 21 a pris la fréquence: 605
+ TRX: cout parttiel 0 ; 0
+ TRX: 22 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 23 a pris la fréquence: 594
+ TRX: cout parttiel 46.6272 ; 2
+ TRX: 24 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 25 a pris la fréquence: 605
+ TRX: cout parttiel 85.8504 ; 2
+ TRX: 26 a pris la fréquence: 595
+ TRX: cout parttiel 86.231 ; 2
+ TRX: 27 a pris la fréquence: 591
+ TRX: cout parttiel 86.231 ; 2
+ TRX: 28 a pris la fréquence: 597
+ TRX: cout parttiel 86.231 ; 2
+ TRX: 29 a pris la fréquence: 603
+ TRX: cout parttiel 0 ; 0
+ TRX: 30 a pris la fréquence: 595
+ TRX: cout parttiel 96.6832 ; 3
+ TRX: 31 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 32 a pris la fréquence: 603
+ TRX: cout parttiel 0 ; 0
+ TRX: 33 a pris la fréquence: 602
+ TRX: cout parttiel 99.6325 ; 4
+ TRX: 34 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 35 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 36 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 37 a pris la fréquence: 602
+ TRX: cout parttiel 130.383 ; 5
+ TRX: 38 a pris la fréquence: 596
+ TRX: cout parttiel 130.386 ; 5
+ TRX: 39 a pris la fréquence: 598
+ TRX: cout parttiel 130.495 ; 5
+ TRX: 40 a pris la fréquence: 596
+ TRX: cout parttiel 130.5 ; 5
+ TRX: 41 a pris la fréquence: 604
+ TRX: cout parttiel 0 ; 0
+ TRX: 42 a pris la fréquence: 605
+ TRX: cout parttiel 170.678 ; 5
+ TRX: 43 a pris la fréquence: 600
+ TRX: cout parttiel 170.678 ; 5
+ TRX: 44 a pris la fréquence: 594
+ TRX: cout parttiel 170.809 ; 5
+ TRX: 45 a pris la fréquence: 598
+ TRX: cout parttiel 170.809 ; 5
+ TRX: 46 a pris la fréquence: 603
+ TRX: cout parttiel 171.058 ; 5
+ TRX: 47 a pris la fréquence: 596
+ TRX: cout parttiel 171.392 ; 5
+ TRX: 48 a pris la fréquence: 594
+ TRX: cout parttiel 171.623 ; 5
+ TRX: 49 a pris la fréquence: 599
+ TRX: cout parttiel 171.624 ; 5
+ TRX: 50 a pris la fréquence: 601
+ TRX: cout parttiel 171.624 ; 5
+ TRX: 51 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 52 a pris la fréquence: 598
+ TRX: cout parttiel 183.787 ; 5
+ TRX: 53 a pris la fréquence: 603
+ TRX: cout parttiel 184.064 ; 5
+ TRX: 54 a pris la fréquence: 604
+ TRX: cout parttiel 184.126 ; 5
+ TRX: 55 a pris la fréquence: 592
+ TRX: cout parttiel 184.143 ; 5
+ TRX: 56 a pris la fréquence: 594
+ TRX: cout parttiel 184.866 ; 5
+ TRX: 57 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 58 a pris la fréquence: 594
+ TRX: cout parttiel 184.866 ; 5
+ TRX: 59 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 60 a pris la fréquence: 599
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 61 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 62 a pris la fréquence: 588
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 63 a pris la fréquence: 601
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 64 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 65 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 66 a pris la fréquence: 590
+ TRX: cout parttiel 185.607 ; 5
+ TRX: 67 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 68 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 69 a pris la fréquence: 594
+ TRX: cout parttiel 185.73 ; 6
+ TRX: 70 a pris la fréquence: 599
+ TRX: cout parttiel 185.73 ; 6
+ TRX: 71 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 72 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 73 a pris la fréquence: 588
+ TRX: cout parttiel 185.738 ; 6
+ TRX: 74 a pris la fréquence: 590
+ TRX: cout parttiel 185.738 ; 6
+ TRX: 75 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 76 a pris la fréquence: 595
+ TRX: cout parttiel 210.079 ; 7
+ TRX: 77 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 78 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 79 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 80 a pris la fréquence: 598
+ TRX: cout parttiel 210.079 ; 7
+ TRX: 81 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 82 a pris la fréquence: 589
+ TRX: cout parttiel 210.079 ; 7
+ TRX: 83 a pris la fréquence: 602
+ TRX: cout parttiel 210.08 ; 7
+ TRX: 84 a pris la fréquence: 595
+ TRX: cout parttiel 210.08 ; 7
+ TRX: 85 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 86 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 87 a pris la fréquence: 598
+ TRX: cout parttiel 210.927 ; 7
+ TRX: 88 a pris la fréquence: 601
+ TRX: cout parttiel 210.927 ; 7
+ TRX: 89 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 90 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 91 a pris la fréquence: 594
+ TRX: cout parttiel 210.927 ; 7
+ TRX: 92 a pris la fréquence: 599
+ TRX: cout parttiel 210.929 ; 7
+ TRX: 93 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 94 a pris la fréquence: 590
+ TRX: cout parttiel 228.507 ; 7
+ TRX: 95 a pris la fréquence: 588
+ TRX: cout parttiel 228.507 ; 7
+ TRX: 96 a pris la fréquence: 592
+ TRX: cout parttiel 228.507 ; 7
+ TRX: 97 a pris la fréquence: 602
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 98 a pris la fréquence: 594
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 99 a pris la fréquence: 600
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 100 a pris la fréquence: 601
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 101 a pris la fréquence: 588
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 102 a pris la fréquence: 589
+ TRX: cout parttiel 228.508 ; 7
+ TRX: 103 a pris la fréquence: 599
+ TRX: cout parttiel 228.509 ; 7
+ TRX: 104 a pris la fréquence: 589
+ TRX: cout parttiel 228.509 ; 7
+ TRX: 105 a pris la fréquence: 592
+ TRX: cout parttiel 228.509 ; 7
+ TRX: 106 a pris la fréquence: 602
+ TRX: cout parttiel 228.509 ; 7
+ TRX: 107 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 108 a pris la fréquence: 591
+ TRX: cout parttiel 240.287 ; 7
+ TRX: 109 a pris la fréquence: 592
+ TRX: cout parttiel 240.287 ; 7
+ TRX: 110 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 111 a pris la fréquence: 596
+ TRX: cout parttiel 241.005 ; 7
+ TRX: 112 a pris la fréquence: 602
+ TRX: cout parttiel 241.005 ; 7
+ TRX: 113 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 114 a pris la fréquence: 601
+ TRX: cout parttiel 242.387 ; 7
+ TRX: 115 a pris la fréquence: 590
+ TRX: cout parttiel 242.388 ; 7
+ TRX: 116 a pris la fréquence: 591
+ TRX: cout parttiel 242.39 ; 7
+ TRX: 117 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 118 a pris la fréquence: 588
+ TRX: cout parttiel 242.541 ; 7
+ TRX: 119 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 120 a pris la fréquence: 589
+ TRX: cout parttiel 261.118 ; 7
+ TRX: 121 a pris la fréquence: 593
+ TRX: cout parttiel 261.119 ; 7
+ TRX: 122 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 123 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 124 a pris la fréquence: 593
+ TRX: cout parttiel 264.162 ; 8
+ TRX: 125 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 126 a pris la fréquence: 601
+ TRX: cout parttiel 294.736 ; 8
+ TRX: 127 a pris la fréquence: 597
+ TRX: cout parttiel 294.737 ; 8
+ TRX: 128 a pris la fréquence: 595
+ TRX: cout parttiel 294.742 ; 8
+ TRX: 129 a pris la fréquence: 594
+ TRX: cout parttiel 294.93 ; 9
+ TRX: 130 a pris la fréquence: 595
+ TRX: cout parttiel 295.014 ; 9
+ TRX: 131 a pris la fréquence: 600
+ TRX: cout parttiel 295.052 ; 9
+ TRX: 132 a pris la fréquence: 592
+ TRX: cout parttiel 295.318 ; 9
+ TRX: 133 a pris la fréquence: 590
+ TRX: cout parttiel 295.375 ; 9
+ TRX: 134 a pris la fréquence: 598
+ TRX: cout parttiel 295.493 ; 9
+ TRX: 135 a pris la fréquence: 599
+ TRX: cout parttiel 295.537 ; 9
+ TRX: 136 a pris la fréquence: 589
+ TRX: cout parttiel 295.542 ; 9
+ TRX: 137 a pris la fréquence: 588
+ TRX: cout parttiel 295.542 ; 9
+ TRX: 138 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 139 a pris la fréquence: 601
+ TRX: cout parttiel 297.974 ; 10
+ TRX: 140 a pris la fréquence: 601
+ TRX: cout parttiel 298.09 ; 10
+ TRX: 141 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 142 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 143 a pris la fréquence: 589
+ TRX: cout parttiel 298.456 ; 10
+ TRX: 144 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 145 a pris la fréquence: 599
+ TRX: cout parttiel 299.354 ; 10
+ TRX: 146 a pris la fréquence: 600
+ TRX: cout parttiel 299.37 ; 10
+ TRX: 147 a pris la fréquence: 597
+ TRX: cout parttiel 299.38 ; 10
+ TRX: 148 a pris la fréquence: 590
+ TRX: cout parttiel 299.38 ; 10
+ TRX: 149 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 150 a pris la fréquence: 597
+ TRX: cout parttiel 301.159 ; 10
+ TRX: 151 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 152 a pris la fréquence: 589
+ TRX: cout parttiel 301.721 ; 10
+ TRX: 153 a pris la fréquence: 593
+ TRX: cout parttiel 301.745 ; 10
+ TRX: 154 a pris la fréquence: 592
+ TRX: cout parttiel 301.824 ; 10
+ TRX: 155 a pris la fréquence: 590
+ TRX: cout parttiel 301.978 ; 10
+ TRX: 156 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 157 a pris la fréquence: 594
+ TRX: cout parttiel 302.719 ; 10
+ TRX: 158 a pris la fréquence: 602
+ TRX: cout parttiel 302.721 ; 10
+ TRX: 159 a pris la fréquence: 600
+ TRX: cout parttiel 302.731 ; 10
+ TRX: 160 a pris la fréquence: 590
+ TRX: cout parttiel 302.803 ; 10
+ TRX: 161 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 162 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 163 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 164 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 165 a pris la fréquence: 594
+ TRX: cout parttiel 339.228 ; 10
+ TRX: 166 a pris la fréquence: 602
+ TRX: cout parttiel 339.351 ; 10
+ TRX: 167 a pris la fréquence: 588
+ TRX: cout parttiel 339.452 ; 10
+ TRX: 168 a pris la fréquence: 602
+ TRX: cout parttiel 339.895 ; 10
+ TRX: 169 a pris la fréquence: 592
+ TRX: cout parttiel 339.995 ; 10
+ TRX: 170 a pris la fréquence: 598
+ TRX: cout parttiel 340.192 ; 10
+ TRX: 171 a pris la fréquence: 600
+ TRX: cout parttiel 340.308 ; 10
+ TRX: 172 a pris la fréquence: 593
+ TRX: cout parttiel 340.424 ; 10
+ TRX: 173 a pris la fréquence: 594
+ TRX: cout parttiel 340.424 ; 10
+ TRX: 174 a pris la fréquence: 601
+ TRX: cout parttiel 340.473 ; 10
+ TRX: 175 a pris la fréquence: 597
+ TRX: cout parttiel 340.473 ; 10
+ TRX: 176 a pris la fréquence: 602
+ TRX: cout parttiel 340.473 ; 10
+ TRX: 177 a pris la fréquence: 596
+ TRX: cout parttiel 340.598 ; 10
+ TRX: 178 a pris la fréquence: 592
+ TRX: cout parttiel 340.6 ; 10
+ TRX: 179 a pris la fréquence: 592
+ TRX: cout parttiel 340.6 ; 10
+ TRX: 180 a pris la fréquence: 599
+ TRX: cout parttiel 340.6 ; 10
+ TRX: 181 a pris la fréquence: 589
+ TRX: cout parttiel 340.6 ; 10
+ TRX: 182 a pris la fréquence: 602
+ TRX: cout parttiel 340.616 ; 10
+ TRX: 183 a pris la fréquence: 588
+ TRX: cout parttiel 340.617 ; 10
+ TRX: 184 a pris la fréquence: 593
+ TRX: cout parttiel 340.617 ; 10
+ TRX: 185 a pris la fréquence: 595
+ TRX: cout parttiel 340.617 ; 10
+ TRX: 186 a pris la fréquence: 601
+ TRX: cout parttiel 340.619 ; 10
+ TRX: 187 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 188 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 189 a pris la fréquence: 588
+ TRX: cout parttiel 340.619 ; 10
+ TRX: 190 a pris la fréquence: 594
+ TRX: cout parttiel 340.619 ; 10
+ TRX: 191 a pris la fréquence: 597
+ TRX: cout parttiel 340.857 ; 10
+ TRX: 192 a pris la fréquence: 599
+ TRX: cout parttiel 340.857 ; 10
+ TRX: 193 a pris la fréquence: 598
+ TRX: cout parttiel 340.858 ; 11
+ TRX: 194 a pris la fréquence: 595
+ TRX: cout parttiel 340.863 ; 11
+ TRX: 195 a pris la fréquence: 596
+ TRX: cout parttiel 340.863 ; 11
+ TRX: 196 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 197 a pris la fréquence: 588
+ TRX: cout parttiel 340.864 ; 11
+ TRX: 198 a pris la fréquence: 602
+ TRX: cout parttiel 340.864 ; 11
+ TRX: 199 a pris la fréquence: 593
+ TRX: cout parttiel 340.877 ; 11
+ TRX: 200 a pris la fréquence: 600
+ TRX: cout parttiel 341.339 ; 11
+ TRX: 201 a pris la fréquence: 589
+ TRX: cout parttiel 341.343 ; 11
+ TRX: 202 a pris la fréquence: 591
+ TRX: cout parttiel 341.398 ; 11
+ TRX: 203 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 204 a pris la fréquence: 595
+ TRX: cout parttiel 346.702 ; 11
+ TRX: 205 a pris la fréquence: 598
+ TRX: cout parttiel 346.702 ; 11
+ TRX: 206 a pris la fréquence: 598
+ TRX: cout parttiel 346.702 ; 11
+ TRX: 207 a pris la fréquence: 600
+ TRX: cout parttiel 346.703 ; 11
+ TRX: 208 a pris la fréquence: 593
+ TRX: cout parttiel 346.703 ; 11
+ TRX: 209 a pris la fréquence: 591
+ TRX: cout parttiel 346.703 ; 11
+ TRX: 210 a pris la fréquence: 601
+ TRX: cout parttiel 346.703 ; 11
+ TRX: 211 a pris la fréquence: 591
+ TRX: cout parttiel 346.703 ; 11
+ TRX: 212 a pris la fréquence: 600
+ TRX: cout parttiel 346.705 ; 11
+ TRX: 213 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 214 a pris la fréquence: 597
+ TRX: cout parttiel 346.919 ; 11
+ TRX: 215 a pris la fréquence: 588
+ TRX: cout parttiel 346.919 ; 11
+ TRX: 216 a pris la fréquence: 593
+ TRX: cout parttiel 346.931 ; 11
+ TRX: 217 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 218 a pris la fréquence: 595
+ TRX: cout parttiel 356.289 ; 12
+ TRX: 219 a pris la fréquence: 593
+ TRX: cout parttiel 356.362 ; 12
+ TRX: 220 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 221 a pris la fréquence: 602
+ TRX: cout parttiel 357.03 ; 12
+ TRX: 222 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 223 a pris la fréquence: 602
+ TRX: cout parttiel 357.068 ; 12
+ TRX: 224 a pris la fréquence: 591
+ TRX: cout parttiel 357.068 ; 12
+ TRX: 225 a pris la fréquence: 596
+ TRX: cout parttiel 357.202 ; 12
+ TRX: 226 a pris la fréquence: 590
+ TRX: cout parttiel 357.204 ; 12
+ TRX: 227 a pris la fréquence: 588
+ TRX: cout parttiel 357.205 ; 12
+ TRX: 228 a pris la fréquence: 601
+ TRX: cout parttiel 357.205 ; 12
+ TRX: 229 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 230 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 231 a pris la fréquence: 591
+ TRX: cout parttiel 365.192 ; 12
+ TRX: 232 a pris la fréquence: 601
+ TRX: cout parttiel 365.395 ; 12
+ TRX: 233 a pris la fréquence: 594
+ TRX: cout parttiel 365.484 ; 12
+ TRX: 234 a pris la fréquence: 588
+ TRX: cout parttiel 365.485 ; 12
+ TRX: 235 a pris la fréquence: 593
+ TRX: cout parttiel 365.486 ; 12
+ TRX: 236 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 237 a pris la fréquence: 591
+ TRX: cout parttiel 384.738 ; 12
+ TRX: 238 a pris la fréquence: 599
+ TRX: cout parttiel 384.744 ; 12
+ TRX: 239 a pris la fréquence: 591
+ TRX: cout parttiel 384.744 ; 12
+ TRX: 240 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 241 a pris la fréquence: 588
+ TRX: cout parttiel 384.785 ; 12
+ TRX: 242 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 243 a pris la fréquence: 596
+ TRX: cout parttiel 422.274 ; 13
+ TRX: 244 a pris la fréquence: 592
+ TRX: cout parttiel 422.357 ; 13
+ TRX: 245 a pris la fréquence: 590
+ TRX: cout parttiel 422.363 ; 13
+ TRX: 246 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 247 a pris la fréquence: 590
+ TRX: cout parttiel 423.087 ; 13
+ TRX: 248 a pris la fréquence: 588
+ TRX: cout parttiel 423.102 ; 13
+ TRX: 249 a pris la fréquence: 602
+ TRX: cout parttiel 423.104 ; 13
+ TRX: 250 a pris la fréquence: 599
+ TRX: cout parttiel 423.104 ; 13
+ TRX: 251 a pris la fréquence: 597
+ TRX: cout parttiel 423.104 ; 13
+ TRX: 252 a pris la fréquence: 595
+ TRX: cout parttiel 423.114 ; 13
+ TRX: 253 a pris la fréquence: 598
+ TRX: cout parttiel 423.114 ; 13
+ TRX: 254 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 255 a pris la fréquence: 596
+ TRX: cout parttiel 423.173 ; 13
+ TRX: 256 a pris la fréquence: 592
+ TRX: cout parttiel 423.244 ; 13
+ TRX: 257 a pris la fréquence: 590
+ TRX: cout parttiel 423.246 ; 13
+ TRX: 258 a pris la fréquence: 594
+ TRX: cout parttiel 423.247 ; 13
+ TRX: 259 a pris la fréquence: 601
+ TRX: cout parttiel 423.284 ; 13
+ TRX: 260 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 261 a pris la fréquence: 595
+ TRX: cout parttiel 440.054 ; 13
+ TRX: 262 a pris la fréquence: 589
+ TRX: cout parttiel 440.106 ; 13
+ TRX: 263 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 264 a pris la fréquence: 593
+ TRX: cout parttiel 440.413 ; 14
+ TRX: 265 a pris la fréquence: 599
+ TRX: cout parttiel 440.551 ; 14
+ TRX: 266 a pris la fréquence: 591
+ TRX: cout parttiel 440.73 ; 14
+ TRX: 267 a pris la fréquence: 589
+ TRX: cout parttiel 440.836 ; 14
+ TRX: 268 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 269 a pris la fréquence: 597
+ TRX: cout parttiel 441.338 ; 14
+ TRX: 270 a pris la fréquence: 598
+ TRX: cout parttiel 441.523 ; 14
+ TRX: 271 a pris la fréquence: 600
+ TRX: cout parttiel 441.533 ; 14
+ TRX: 272 a pris la fréquence: 594
+ TRX: cout parttiel 441.544 ; 14
+ TRX: 273 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 274 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 275 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 276 a pris la fréquence: 596
+ TRX: cout parttiel 464.232 ; 14
+ TRX: 277 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 278 a pris la fréquence: 600
+ TRX: cout parttiel 466.297 ; 14
+ TRX: 279 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 280 a pris la fréquence: 597
+ TRX: cout parttiel 469.401 ; 14
+ TRX: 281 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 282 a pris la fréquence: 589
+ TRX: cout parttiel 672.234 ; 14
+ TRX: 283 a pris la fréquence: 594
+ TRX: cout parttiel 672.234 ; 14
+ TRX: 284 a pris la fréquence: 592
+ TRX: cout parttiel 672.367 ; 14
+ TRX: 285 a pris la fréquence: 590
+ TRX: cout parttiel 672.378 ; 14
+ TRX: 286 a pris la fréquence: 599
+ TRX: cout parttiel 672.76 ; 14
+ TRX: 287 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 288 a pris la fréquence: 597
+ TRX: cout parttiel 680.976 ; 14
+ TRX: 289 a pris la fréquence: 597
+ TRX: cout parttiel 681.1 ; 14
+ TRX: 290 a pris la fréquence: 590
+ TRX: cout parttiel 681.1 ; 14
+ TRX: 291 a pris la fréquence: 588
+ TRX: cout parttiel 681.103 ; 14
+ TRX: 292 a pris la fréquence: 592
+ TRX: cout parttiel 681.998 ; 14
+ TRX: 293 a pris la fréquence: 590
+ TRX: cout parttiel 682.148 ; 14
+ TRX: 294 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 295 a pris la fréquence: 589
+ TRX: cout parttiel 691.079 ; 14
+ TRX: 296 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 297 a pris la fréquence: 601
+ TRX: cout parttiel 696.635 ; 14
+ TRX: 298 a pris la fréquence: 598
+ TRX: cout parttiel 696.635 ; 14
+ TRX: 299 a pris la fréquence: 601
+ TRX: cout parttiel 696.637 ; 14
+ TRX: 300 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 301 a pris la fréquence: 589
+ TRX: cout parttiel 698.77 ; 14
+ TRX: 302 a pris la fréquence: 600
+ TRX: cout parttiel 698.789 ; 14
+ TRX: 303 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 304 a pris la fréquence: 598
+ TRX: cout parttiel 745.25 ; 15
+ TRX: 305 a pris la fréquence: 594
+ TRX: cout parttiel 745.842 ; 15
+ TRX: 306 a pris la fréquence: 601
+ TRX: cout parttiel 745.846 ; 15
+ TRX: 307 a pris la fréquence: 600
+ TRX: cout parttiel 745.847 ; 15
+ TRX: 308 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 309 a pris la fréquence: 593
+ TRX: cout parttiel 745.847 ; 15
+ TRX: 310 a pris la fréquence: 599
+ TRX: cout parttiel 745.849 ; 15
+ TRX: 311 a pris la fréquence: 601
+ TRX: cout parttiel 745.849 ; 15
+ TRX: 312 a pris la fréquence: 597
+ TRX: cout parttiel 745.849 ; 15
+ TRX: 313 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 314 a pris la fréquence: 602
+ TRX: cout parttiel 921.771 ; 15
+ TRX: 315 a pris la fréquence: 598
+ TRX: cout parttiel 921.771 ; 15
+ TRX: 316 a pris la fréquence: 594
+ TRX: cout parttiel 921.771 ; 15
+ TRX: 317 a pris la fréquence: 600
+ TRX: cout parttiel 921.784 ; 15
+ TRX: 318 a pris la fréquence: 592
+ TRX: cout parttiel 921.792 ; 15
+ TRX: 319 a pris la fréquence: 594
+ TRX: cout parttiel 921.792 ; 15
+ TRX: 320 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 321 a pris la fréquence: 600
+ TRX: cout parttiel 921.815 ; 15
+ TRX: 322 a pris la fréquence: 596
+ TRX: cout parttiel 921.818 ; 15
+ TRX: 323 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 324 a pris la fréquence: 590
+ TRX: cout parttiel 922.992 ; 15
+ TRX: 325 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 326 a pris la fréquence: 601
+ TRX: cout parttiel 923.011 ; 15
+ TRX: 327 a pris la fréquence: 598
+ TRX: cout parttiel 923.219 ; 15
+ TRX: 328 a pris la fréquence: 589
+ TRX: cout parttiel 923.224 ; 15
+ TRX: 329 a pris la fréquence: 596
+ TRX: cout parttiel 923.469 ; 15
+ TRX: 330 a pris la fréquence: 591
+ TRX: cout parttiel 923.491 ; 15
+ TRX: 331 a pris la fréquence: 589
+ TRX: cout parttiel 923.549 ; 15
+ TRX: 332 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 333 a pris la fréquence: 599
+ TRX: cout parttiel 933.853 ; 16
+ TRX: 334 a pris la fréquence: 591
+ TRX: cout parttiel 933.892 ; 16
+ TRX: 335 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 336 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 337 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 338 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 339 a pris la fréquence: 594
+ TRX: cout parttiel 968.337 ; 16
+ TRX: 340 a pris la fréquence: 600
+ TRX: cout parttiel 968.339 ; 16
+ TRX: 341 a pris la fréquence: 588
+ TRX: cout parttiel 968.388 ; 16
+ TRX: 342 a pris la fréquence: 602
+ TRX: cout parttiel 968.388 ; 16
+ TRX: 343 a pris la fréquence: 590
+ TRX: cout parttiel 968.388 ; 16
+ TRX: 344 a pris la fréquence: 594
+ TRX: cout parttiel 968.416 ; 16
+ TRX: 345 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 346 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 347 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 348 a pris la fréquence: 589
+ TRX: cout parttiel 974.053 ; 16
+ TRX: 349 a pris la fréquence: 594
+ TRX: cout parttiel 974.175 ; 16
+ TRX: 350 a pris la fréquence: 595
+ TRX: cout parttiel 974.208 ; 16
+ TRX: 351 a pris la fréquence: 600
+ TRX: cout parttiel 974.456 ; 16
+ TRX: 352 a pris la fréquence: 597
+ TRX: cout parttiel 974.456 ; 16
+ TRX: 353 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 354 a pris la fréquence: 592
+ TRX: cout parttiel 974.456 ; 16
+ TRX: 355 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 356 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 357 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 358 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 359 a pris la fréquence: 592
+ TRX: cout parttiel 981.366 ; 16
+ TRX: 360 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 361 a pris la fréquence: 588
+ TRX: cout parttiel 981.394 ; 16
+ TRX: 362 a pris la fréquence: 602
+ TRX: cout parttiel 981.394 ; 16
+ TRX: 363 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 364 a pris la fréquence: 593
+ TRX: cout parttiel 995.111 ; 16
+ TRX: 365 a pris la fréquence: 593
+ TRX: cout parttiel 995.14 ; 16
+ TRX: 366 a pris la fréquence: 599
+ TRX: cout parttiel 995.649 ; 16
+ TRX: 367 a pris la fréquence: 601
+ TRX: cout parttiel 995.701 ; 16
+ TRX: 368 a pris la fréquence: 588
+ TRX: cout parttiel 995.714 ; 16
+ TRX: 369 a pris la fréquence: 600
+ TRX: cout parttiel 995.835 ; 16
+ TRX: 370 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 371 a pris la fréquence: 594
+ TRX: cout parttiel 995.901 ; 16
+ TRX: 372 a pris la fréquence: 600
+ TRX: cout parttiel 999.655 ; 16
+ TRX: 373 a pris la fréquence: 594
+ TRX: cout parttiel 999.804 ; 16
+ TRX: 374 a pris la fréquence: 600
+ TRX: cout parttiel 1000.61 ; 16
+ TRX: 375 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 376 a pris la fréquence: 599
+ TRX: cout parttiel 1007.26 ; 16
+ TRX: 377 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 378 a pris la fréquence: 589
+ TRX: cout parttiel 1007.82 ; 16
+ TRX: 379 a pris la fréquence: 592
+ TRX: cout parttiel 1007.88 ; 16
+ TRX: 380 a pris la fréquence: 595
+ TRX: cout parttiel 1007.88 ; 16
+ TRX: 381 a pris la fréquence: 589
+ TRX: cout parttiel 1008.05 ; 16
+ TRX: 382 a pris la fréquence: 597
+ TRX: cout parttiel 1008.24 ; 16
+ TRX: 383 a pris la fréquence: 588
+ TRX: cout parttiel 1009.09 ; 16
+ TRX: 384 a pris la fréquence: 595
+ TRX: cout parttiel 1010.64 ; 16
+ TRX: 385 a pris la fréquence: 601
+ TRX: cout parttiel 1010.8 ; 16
+ TRX: 386 a pris la fréquence: 588
+ TRX: cout parttiel 1019.95 ; 16
+ TRX: 387 a pris la fréquence: 590
+ TRX: cout parttiel 1020.24 ; 16
+ TRX: 388 a pris la fréquence: 594
+ TRX: cout parttiel 1020.26 ; 16
+ TRX: 389 a pris la fréquence: 593
+ TRX: cout parttiel 1020.28 ; 16
+ TRX: 390 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 391 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 392 a pris la fréquence: 593
+ TRX: cout parttiel 1044.3 ; 16
+ TRX: 393 a pris la fréquence: 601
+ TRX: cout parttiel 1045.27 ; 16
+ TRX: 394 a pris la fréquence: 588
+ TRX: cout parttiel 1045.51 ; 16
+ TRX: 395 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 396 a pris la fréquence: 592
+ TRX: cout parttiel 1067.9 ; 17
+ TRX: 397 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 398 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 399 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 400 a pris la fréquence: 602
+ TRX: cout parttiel 1118.14 ; 17
+ TRX: 401 a pris la fréquence: 592
+ TRX: cout parttiel 1119.06 ; 17
+ TRX: 402 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 403 a pris la fréquence: 595
+ TRX: cout parttiel 1127.57 ; 17
+ TRX: 404 a pris la fréquence: 598
+ TRX: cout parttiel 1129.24 ; 17
+ TRX: 405 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 406 a pris la fréquence: 600
+ TRX: cout parttiel 1138.48 ; 17
+ TRX: 407 a pris la fréquence: 600
+ TRX: cout parttiel 1138.59 ; 17
+ TRX: 408 a pris la fréquence: 595
+ TRX: cout parttiel 1139.05 ; 17
+ TRX: 409 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 410 a pris la fréquence: 590
+ TRX: cout parttiel 1151.17 ; 17
+ TRX: 411 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 412 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 413 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 414 a pris la fréquence: 597
+ TRX: cout parttiel 1383.36 ; 17
+ TRX: 415 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 416 a pris la fréquence: 595
+ TRX: cout parttiel 1437.51 ; 17
+ TRX: 417 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 418 a pris la fréquence: 600
+ TRX: cout parttiel 1439.26 ; 17
+ TRX: 419 a pris la fréquence: 595
+ TRX: cout parttiel 1439.35 ; 17
+ TRX: 420 a pris la fréquence: 595
+ TRX: cout parttiel 1439.8 ; 17
+ TRX: 421 a pris la fréquence: 593
+ TRX: cout parttiel 1439.9 ; 17
+ TRX: 422 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 423 a pris la fréquence: 596
+ TRX: cout parttiel 1500.72 ; 17
+ TRX: 424 a pris la fréquence: 588
+ TRX: cout parttiel 1500.78 ; 17
+ TRX: 425 a pris la fréquence: 602
+ TRX: cout parttiel 1500.81 ; 17
+ TRX: 426 a pris la fréquence: 600
+ TRX: cout parttiel 1502.2 ; 17
+ TRX: 427 a pris la fréquence: 592
+ TRX: cout parttiel 1502.61 ; 17
+ TRX: 428 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 429 a pris la fréquence: 594
+ TRX: cout parttiel 1521.8 ; 17
+ TRX: 430 a pris la fréquence: 592
+ TRX: cout parttiel 1568.86 ; 17
+ TRX: 431 a pris la fréquence: 588
+ TRX: cout parttiel 1627.86 ; 17
+ TRX: 432 a pris la fréquence: 592
+ TRX: cout parttiel 1641.14 ; 17
+ TRX: 433 a pris la fréquence: 597
+ TRX: cout parttiel 1641.3 ; 17
+ TRX: 434 a pris la fréquence: 596
+ TRX: cout parttiel 1642.97 ; 17
+ TRX: 435 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 436 a pris la fréquence: 588
+ TRX: cout parttiel 1654.01 ; 17
+ TRX: 437 a pris la fréquence: 601
+ TRX: cout parttiel 1654.01 ; 17
+ TRX: 438 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 439 a pris la fréquence: 593
+ TRX: cout parttiel 1841.52 ; 18
+ TRX: 440 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 441 a pris la fréquence: 591
+ TRX: cout parttiel 1968.61 ; 19
+ TRX: 442 a pris la fréquence: 602
+ TRX: cout parttiel 1968.62 ; 19
+ TRX: 443 a pris la fréquence: 589
+ TRX: cout parttiel 1968.62 ; 19
+ TRX: 444 a pris la fréquence: 602
+ TRX: cout parttiel 1968.62 ; 19
+ TRX: 445 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 446 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 447 a pris la fréquence: 591
+ TRX: cout parttiel 2000.83 ; 21
+ TRX: 448 a pris la fréquence: 602
+ TRX: cout parttiel 2000.93 ; 21
+ TRX: 449 a pris la fréquence: 595
+ TRX: cout parttiel 2000.94 ; 21
+ TRX: 450 a pris la fréquence: 602
+ TRX: cout parttiel 2000.94 ; 21
+ TRX: 451 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 452 a pris la fréquence: 600
+ TRX: cout parttiel 2025.93 ; 21
+ TRX: 453 a pris la fréquence: 588
+ TRX: cout parttiel 2025.97 ; 21
+ TRX: 454 a pris la fréquence: 588
+ TRX: cout parttiel 2046.13 ; 21
+ TRX: 455 a pris la fréquence: 591
+ TRX: cout parttiel 2052.89 ; 21
+ TRX: 456 a pris la fréquence: 599
+ TRX: cout parttiel 2052.89 ; 21
+ TRX: 457 a pris la fréquence: 591
+ TRX: cout parttiel 2053.33 ; 21
+ TRX: 458 a pris la fréquence: 594
+ TRX: cout parttiel 2053.38 ; 21
+ TRX: 459 a pris la fréquence: 590
+ TRX: cout parttiel 2053.46 ; 21
+ TRX: 460 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 461 a pris la fréquence: 593
+ TRX: cout parttiel 2178.79 ; 21
+ TRX: 462 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 463 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 464 a pris la fréquence: 588
+ TRX: cout parttiel 2323.67 ; 21
+ TRX: 465 a pris la fréquence: 601
+ TRX: cout parttiel 2323.67 ; 21
+ TRX: 466 a pris la fréquence: 594
+ TRX: cout parttiel 2323.7 ; 21
+ TRX: 467 a pris la fréquence: 593
+ TRX: cout parttiel 2323.98 ; 21
+ TRX: 468 a pris la fréquence: 596
+ TRX: cout parttiel 2324.34 ; 21
+ TRX: 469 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 470 a pris la fréquence: 601
+ TRX: cout parttiel 2363.49 ; 21
+ TRX: 471 a pris la fréquence: 598
+ TRX: cout parttiel 2363.49 ; 21
+ TRX: 472 a pris la fréquence: 592
+ TRX: cout parttiel 2363.66 ; 21
+ TRX: 473 a pris la fréquence: 590
+ TRX: cout parttiel 2363.68 ; 21
+ TRX: 474 a pris la fréquence: 597
+ TRX: cout parttiel 2364.34 ; 21
+ TRX: 475 a pris la fréquence: 592
+ TRX: cout parttiel 2364.39 ; 21
+ TRX: 476 a pris la fréquence: 595
+ TRX: cout parttiel 2421.83 ; 21
+ TRX: 477 a pris la fréquence: 588
+ TRX: cout parttiel 2421.83 ; 21
+ TRX: 478 a pris la fréquence: 601
+ TRX: cout parttiel 2421.83 ; 21
+ TRX: 479 a pris la fréquence: 591
+ TRX: cout parttiel 2421.84 ; 21
+ TRX: 480 a pris la fréquence: 594
+ TRX: cout parttiel 2433.59 ; 21
+ TRX: 481 a pris la fréquence: 595
+ TRX: cout parttiel 2433.59 ; 21
+ TRX: 482 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 483 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 484 a pris la fréquence: 595
+ TRX: cout parttiel 2435.28 ; 21
+ TRX: 485 a pris la fréquence: 592
+ TRX: cout parttiel 2435.28 ; 21
+ TRX: 486 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 487 a pris la fréquence: 597
+ TRX: cout parttiel 2485.18 ; 21
+ TRX: 488 a pris la fréquence: 602
+ TRX: cout parttiel 2485.18 ; 21
+ TRX: 489 a pris la fréquence: 599
+ TRX: cout parttiel 2485.23 ; 21
+ TRX: 490 a pris la fréquence: 597
+ TRX: cout parttiel 2485.25 ; 21
+ TRX: 491 a pris la fréquence: 592
+ TRX: cout parttiel 2485.36 ; 21
+ TRX: 492 a pris la fréquence: 600
+ TRX: cout parttiel 2485.97 ; 21
+ TRX: 493 a pris la fréquence: 594
+ TRX: cout parttiel 2485.97 ; 21
+ TRX: 494 a pris la fréquence: 593
+ TRX: cout parttiel 2486.02 ; 21
+ TRX: 495 a pris la fréquence: 595
+ TRX: cout parttiel 2497.93 ; 21
+ TRX: 496 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 497 a pris la fréquence: 593
+ TRX: cout parttiel 2548.88 ; 21
+ TRX: 498 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 499 a pris la fréquence: 594
+ TRX: cout parttiel 2618.72 ; 21
+ TRX: 500 a pris la fréquence: 589
+ TRX: cout parttiel 2663.31 ; 21
+ TRX: 501 a pris la fréquence: 589
+ TRX: cout parttiel 2663.31 ; 21
+ TRX: 502 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 503 a pris la fréquence: 594
+ TRX: cout parttiel 2664.26 ; 22
+ TRX: 504 a pris la fréquence: 600
+ TRX: cout parttiel 2666.68 ; 22
+ TRX: 505 a pris la fréquence: 589
+ TRX: cout parttiel 2695.58 ; 22
+ TRX: 506 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 507 a pris la fréquence: 593
+ TRX: cout parttiel 2807.07 ; 22
+ TRX: 508 a pris la fréquence: 589
+ TRX: cout parttiel 2920.78 ; 22
+ TRX: 509 a pris la fréquence: 594
+ TRX: cout parttiel 2921.07 ; 22
+ TRX: 510 a pris la fréquence: 597
+ TRX: cout parttiel 2921.22 ; 22
+ TRX: 511 a pris la fréquence: 599
+ TRX: cout parttiel 2921.59 ; 22
+ TRX: 512 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 513 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 514 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 515 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 516 a pris la fréquence: 600
+ TRX: cout parttiel 3257.31 ; 22
+ TRX: 517 a pris la fréquence: 593
+ TRX: cout parttiel 3257.49 ; 22
+ TRX: 518 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 519 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 520 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 521 a pris la fréquence: 595
+ TRX: cout parttiel 3706.52 ; 22
+ TRX: 522 a pris la fréquence: 599
+ TRX: cout parttiel 3752.09 ; 22
+ TRX: 523 a pris la fréquence: 602
+ TRX: cout parttiel 3812.63 ; 22
+ TRX: 524 a pris la fréquence: 593
+ TRX: cout parttiel 3815.44 ; 22
+ TRX: 525 a pris la fréquence: 599
+ TRX: cout parttiel 3818.11 ; 22
+ TRX: 526 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 527 a pris la fréquence: 588
+ TRX: cout parttiel 3897.9 ; 22
+ TRX: 528 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 529 a pris la fréquence: 596
+ TRX: cout parttiel 3946.38 ; 22
+ TRX: 530 a pris la fréquence: 592
+ TRX: cout parttiel 3979.62 ; 22
+ TRX: 531 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 532 a pris la fréquence: 601
+ TRX: cout parttiel 4061.43 ; 22
+ TRX: 533 a pris la fréquence: 598
+ TRX: cout parttiel 4061.45 ; 22
+ TRX: 534 a pris la fréquence: 588
+ TRX: cout parttiel 4061.45 ; 22
+ TRX: 535 a pris la fréquence: 588
+ TRX: cout parttiel 4079.9 ; 23
+ TRX: 536 a pris la fréquence: 593
+ TRX: cout parttiel 4097.72 ; 23
+ TRX: 537 a pris la fréquence: 601
+ TRX: cout parttiel 4129.28 ; 23
+ TRX: 538 a pris la fréquence: 599
+ TRX: cout parttiel 4129.28 ; 23
+ TRX: 539 a pris la fréquence: 601
+ TRX: cout parttiel 4158.55 ; 23
+ TRX: 540 a pris la fréquence: 590
+ TRX: cout parttiel 4158.66 ; 23
+ TRX: 541 a pris la fréquence: 595
+ TRX: cout parttiel 4195.65 ; 23
+ TRX: 542 a pris la fréquence: 600
+ TRX: cout parttiel 4198.62 ; 23
+ TRX: 543 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 544 a pris la fréquence: 596
+ TRX: cout parttiel 4416.92 ; 23
+ TRX: 545 a pris la fréquence: 601
+ TRX: cout parttiel 4426.57 ; 23
+ TRX: 546 a pris la fréquence: 594
+ TRX: cout parttiel 4450.77 ; 23
+ TRX: 547 a pris la fréquence: 602
+ TRX: cout parttiel 4452.11 ; 24
+ TRX: 548 a pris la fréquence: 589
+ TRX: cout parttiel 4481.31 ; 24
+ TRX: 549 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 550 a pris la fréquence: 592
+ TRX: cout parttiel 4709.15 ; 25
+ TRX: 551 a pris la fréquence: 593
+ TRX: cout parttiel 4710.9 ; 25
+ TRX: 552 a pris la fréquence: 599
+ TRX: cout parttiel 4728.79 ; 25
+ TRX: 553 a pris la fréquence: 588
+ TRX: cout parttiel 4762.74 ; 25
+ TRX: 554 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 555 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 556 a pris la fréquence: 600
+ TRX: cout parttiel 4881.63 ; 25
+ TRX: 557 a pris la fréquence: 602
+ TRX: cout parttiel 4882.7 ; 25
+ TRX: 558 a pris la fréquence: 591
+ TRX: cout parttiel 4882.7 ; 25
+ TRX: 559 a pris la fréquence: 601
+ TRX: cout parttiel 4948.93 ; 25
+ TRX: 560 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 561 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 562 a pris la fréquence: 596
+ TRX: cout parttiel 5072.47 ; 25
+ TRX: 563 a pris la fréquence: 590
+ TRX: cout parttiel 5107.03 ; 25
+ TRX: 564 a pris la fréquence: 594
+ TRX: cout parttiel 5107.03 ; 25
+ TRX: 565 a pris la fréquence: 591
+ TRX: cout parttiel 5107.03 ; 25
+ TRX: 566 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 567 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 568 a pris la fréquence: 595
+ TRX: cout parttiel 5275.7 ; 25
+ TRX: 569 a pris la fréquence: 597
+ TRX: cout parttiel 5304.04 ; 25
+ TRX: 570 a pris la fréquence: 602
+ TRX: cout parttiel 5304.96 ; 25
+ TRX: 571 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 572 a pris la fréquence: 600
+ TRX: cout parttiel 5361.6 ; 25
+ TRX: 573 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 574 a pris la fréquence: 595
+ TRX: cout parttiel 5363.73 ; 25
+ TRX: 575 a pris la fréquence: 592
+ TRX: cout parttiel 5364.69 ; 25
+ TRX: 576 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 577 a pris la fréquence: 590
+ TRX: cout parttiel 5429.26 ; 25
+ TRX: 578 a pris la fréquence: 600
+ TRX: cout parttiel 5429.57 ; 25
+ TRX: 579 a pris la fréquence: 588
+ TRX: cout parttiel 5429.57 ; 25
+ TRX: 580 a pris la fréquence: 600
+ TRX: cout parttiel 5431.03 ; 25
+ TRX: 581 a pris la fréquence: 601
+ TRX: cout parttiel 5431.04 ; 26
+ TRX: 582 a pris la fréquence: 590
+ TRX: cout parttiel 5460.08 ; 26
+ TRX: 583 a pris la fréquence: 599
+ TRX: cout parttiel 5485.1 ; 26
+ TRX: 584 a pris la fréquence: 593
+ TRX: cout parttiel 5485.1 ; 26
+ TRX: 585 a pris la fréquence: 593
+ TRX: cout parttiel 5485.1 ; 26
+ TRX: 586 a pris la fréquence: 596
+ TRX: cout parttiel 5485.1 ; 26
+ TRX: 587 a pris la fréquence: 588
+ TRX: cout parttiel 5485.29 ; 26
+ TRX: 588 a pris la fréquence: 588
+ TRX: cout parttiel 5485.29 ; 26
+ TRX: 589 a pris la fréquence: 590
+ TRX: cout parttiel 5485.29 ; 26
+ TRX: 590 a pris la fréquence: 601
+ TRX: cout parttiel 5485.29 ; 26
+ TRX: 591 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 592 a pris la fréquence: 600
+ TRX: cout parttiel 5710.46 ; 26
+ TRX: 593 a pris la fréquence: 588
+ TRX: cout parttiel 5710.61 ; 26
+ TRX: 594 a pris la fréquence: 597
+ TRX: cout parttiel 5766.68 ; 26
+ TRX: 595 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 596 a pris la fréquence: 599
+ TRX: cout parttiel 5903.32 ; 26
+ TRX: 597 a pris la fréquence: 602
+ TRX: cout parttiel 5904.39 ; 26
+ TRX: 598 a pris la fréquence: 595
+ TRX: cout parttiel 5938.38 ; 26
+ TRX: 599 a pris la fréquence: 589
+ TRX: cout parttiel 6062.01 ; 26
+ TRX: 600 a pris la fréquence: 600
+ TRX: cout parttiel 6089.73 ; 26
+ TRX: 601 a pris la fréquence: 594
+ TRX: cout parttiel 6144.34 ; 26
+ TRX: 602 a pris la fréquence: 601
+ TRX: cout parttiel 6177.2 ; 26
+ TRX: 603 a pris la fréquence: 599
+ TRX: cout parttiel 6224.11 ; 26
+ TRX: 604 a pris la fréquence: 594
+ TRX: cout parttiel 6259.9 ; 26
+ TRX: 605 a pris la fréquence: 595
+ TRX: cout parttiel 6290.1 ; 27
+ TRX: 606 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 607 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 608 a pris la fréquence: 593
+ TRX: cout parttiel 6368.67 ; 27
+ TRX: 609 a pris la fréquence: 599
+ TRX: cout parttiel 6415.19 ; 27
+ TRX: 610 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 611 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 612 a pris la fréquence: 591
+ TRX: cout parttiel 6523.35 ; 27
+ TRX: 613 a pris la fréquence: 588
+ TRX: cout parttiel 6523.41 ; 27
+ TRX: 614 a pris la fréquence: 590
+ TRX: cout parttiel 6524.23 ; 27
+ TRX: 615 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 616 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 617 a pris la fréquence: 593
+ TRX: cout parttiel 6815.22 ; 27
+ TRX: 618 a pris la fréquence: 602
+ TRX: cout parttiel 6815.22 ; 27
+ TRX: 619 a pris la fréquence: 602
+ TRX: cout parttiel 6829.83 ; 27
+ TRX: 620 a pris la fréquence: 598
+ TRX: cout parttiel 6829.84 ; 27
+ TRX: 621 a pris la fréquence: 599
+ TRX: cout parttiel 6829.89 ; 28
+ TRX: 622 a pris la fréquence: 589
+ TRX: cout parttiel 6852.4 ; 28
+ TRX: 623 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 624 a pris la fréquence: 594
+ TRX: cout parttiel 6922.43 ; 28
+ TRX: 625 a pris la fréquence: 599
+ TRX: cout parttiel 6973.24 ; 28
+ TRX: 626 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 627 a pris la fréquence: 598
+ TRX: cout parttiel 7222.52 ; 28
+ TRX: 628 a pris la fréquence: 588
+ TRX: cout parttiel 7246.21 ; 28
+ TRX: 629 a pris la fréquence: 597
+ TRX: cout parttiel 7246.37 ; 28
+ TRX: 630 a pris la fréquence: 599
+ TRX: cout parttiel 7302.96 ; 28
+ TRX: 631 a pris la fréquence: 602
+ TRX: cout parttiel 7414.23 ; 28
+ TRX: 632 a pris la fréquence: 593
+ TRX: cout parttiel 7500.91 ; 28
+ TRX: 633 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 634 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 635 a pris la fréquence: 588
+ TRX: cout parttiel 7733.47 ; 28
+ TRX: 636 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 637 a pris la fréquence: 591
+ TRX: cout parttiel 7764.72 ; 29
+ TRX: 638 a pris la fréquence: 600
+ TRX: cout parttiel 7768.19 ; 29
+ TRX: 639 a pris la fréquence: 602
+ TRX: cout parttiel 7768.19 ; 29
+ TRX: 640 a pris la fréquence: 592
+ TRX: cout parttiel 7769.11 ; 29
+ TRX: 641 a pris la fréquence: 590
+ TRX: cout parttiel 7769.14 ; 29
+ TRX: 642 a pris la fréquence: 602
+ TRX: cout parttiel 7769.14 ; 29
+ TRX: 643 a pris la fréquence: 599
+ TRX: cout parttiel 7769.21 ; 29
+ TRX: 644 a pris la fréquence: 591
+ TRX: cout parttiel 7769.21 ; 29
+ TRX: 645 a pris la fréquence: 593
+ TRX: cout parttiel 7769.21 ; 29
+ TRX: 646 a pris la fréquence: 596
+ TRX: cout parttiel 7769.7 ; 29
+ TRX: 647 a pris la fréquence: 602
+ TRX: cout parttiel 7769.7 ; 29
+ TRX: 648 a pris la fréquence: 589
+ TRX: cout parttiel 0 ; 0
+ TRX: 649 a pris la fréquence: 594
+ TRX: cout parttiel 7769.7 ; 29
+ TRX: 650 a pris la fréquence: 588
+ TRX: cout parttiel 7769.76 ; 29
+ TRX: 651 a pris la fréquence: 598
+ TRX: cout parttiel 7829.29 ; 29
+ TRX: 652 a pris la fréquence: 593
+ TRX: cout parttiel 7859.05 ; 29
+ TRX: 653 a pris la fréquence: 599
+ TRX: cout parttiel 7859.05 ; 29
+ TRX: 654 a pris la fréquence: 596
+ TRX: cout parttiel 7859.09 ; 29
+ TRX: 655 a pris la fréquence: 597
+ TRX: cout parttiel 7859.19 ; 30
+ TRX: 656 a pris la fréquence: 589
+ TRX: cout parttiel 7859.49 ; 30
+ TRX: 657 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 658 a pris la fréquence: 594
+ TRX: cout parttiel 7970.48 ; 31
+ TRX: 659 a pris la fréquence: 601
+ TRX: cout parttiel 7970.81 ; 31
+ TRX: 660 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 661 a pris la fréquence: 590
+ TRX: cout parttiel 8088.97 ; 31
+ TRX: 662 a pris la fréquence: 594
+ TRX: cout parttiel 8116.16 ; 31
+ TRX: 663 a pris la fréquence: 589
+ TRX: cout parttiel 8116.16 ; 31
+ TRX: 664 a pris la fréquence: 601
+ TRX: cout parttiel 8135.43 ; 31
+ TRX: 665 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 666 a pris la fréquence: 588
+ TRX: cout parttiel 8205.99 ; 31
+ TRX: 667 a pris la fréquence: 593
+ TRX: cout parttiel 8206.07 ; 31
+ TRX: 668 a pris la fréquence: 588
+ TRX: cout parttiel 8222.63 ; 31
+ TRX: 669 a pris la fréquence: 592
+ TRX: cout parttiel 8231.66 ; 31
+ TRX: 670 a pris la fréquence: 592
+ TRX: cout parttiel 8232.15 ; 32
+ TRX: 671 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 672 a pris la fréquence: 594
+ TRX: cout parttiel 8269.17 ; 32
+ TRX: 673 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 674 a pris la fréquence: 589
+ TRX: cout parttiel 8299.8 ; 32
+ TRX: 675 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 676 a pris la fréquence: 594
+ TRX: cout parttiel 8306.18 ; 33
+ TRX: 677 a pris la fréquence: 590
+ TRX: cout parttiel 8309 ; 33
+ TRX: 678 a pris la fréquence: 602
+ TRX: cout parttiel 8332.54 ; 33
+ TRX: 679 a pris la fréquence: 593
+ TRX: cout parttiel 8388.95 ; 33
+ TRX: 680 a pris la fréquence: 602
+ TRX: cout parttiel 8485.89 ; 33
+ TRX: 681 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 682 a pris la fréquence: 591
+ TRX: cout parttiel 8533.56 ; 33
+ TRX: 683 a pris la fréquence: 592
+ TRX: cout parttiel 8565.63 ; 34
+ TRX: 684 a pris la fréquence: 598
+ TRX: cout parttiel 8565.93 ; 34
+ TRX: 685 a pris la fréquence: 592
+ TRX: cout parttiel 8567.43 ; 34
+ TRX: 686 a pris la fréquence: 598
+ TRX: cout parttiel 8574.99 ; 34
+ TRX: 687 a pris la fréquence: 596
+ TRX: cout parttiel 8657.44 ; 34
+ TRX: 688 a pris la fréquence: 602
+ TRX: cout parttiel 8657.62 ; 34
+ TRX: 689 a pris la fréquence: 588
+ TRX: cout parttiel 8658.1 ; 34
+ TRX: 690 a pris la fréquence: 594
+ TRX: cout parttiel 8658.44 ; 34
+ TRX: 691 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 692 a pris la fréquence: 596
+ TRX: cout parttiel 8669.42 ; 34
+ TRX: 693 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 694 a pris la fréquence: 599
+ TRX: cout parttiel 8727.11 ; 34
+ TRX: 695 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 696 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 697 a pris la fréquence: 596
+ TRX: cout parttiel 8785.94 ; 34
+ TRX: 698 a pris la fréquence: 598
+ TRX: cout parttiel 8787.65 ; 34
+ TRX: 699 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 700 a pris la fréquence: 589
+ TRX: cout parttiel 8837.87 ; 34
+ TRX: 701 a pris la fréquence: 590
+ TRX: cout parttiel 9186.82 ; 34
+ TRX: 702 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 703 a pris la fréquence: 600
+ TRX: cout parttiel 9339.72 ; 34
+ TRX: 704 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 705 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 706 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 707 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 708 a pris la fréquence: 602
+ TRX: cout parttiel 9689.92 ; 34
+ TRX: 709 a pris la fréquence: 588
+ TRX: cout parttiel 9696.83 ; 34
+ TRX: 710 a pris la fréquence: 590
+ TRX: cout parttiel 9802.58 ; 34
+ TRX: 711 a pris la fréquence: 595
+ TRX: cout parttiel 0 ; 0
+ TRX: 712 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 713 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 714 a pris la fréquence: 602
+ TRX: cout parttiel 10840.9 ; 34
+ TRX: 715 a pris la fréquence: 598
+ TRX: cout parttiel 10875.1 ; 34
+ TRX: 716 a pris la fréquence: 591
+ TRX: cout parttiel 10986 ; 34
+ TRX: 717 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 718 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 719 a pris la fréquence: 602
+ TRX: cout parttiel 11427.3 ; 34
+ TRX: 720 a pris la fréquence: 600
+ TRX: cout parttiel 11427.3 ; 34
+ TRX: 721 a pris la fréquence: 589
+ TRX: cout parttiel 11427.5 ; 34
+ TRX: 722 a pris la fréquence: 591
+ TRX: cout parttiel 11428.2 ; 34
+ TRX: 723 a pris la fréquence: 589
+ TRX: cout parttiel 11428.2 ; 34
+ TRX: 724 a pris la fréquence: 601
+ TRX: cout parttiel 11428.3 ; 34
+ TRX: 725 a pris la fréquence: 595
+ TRX: cout parttiel 11428.7 ; 34
+ TRX: 726 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 727 a pris la fréquence: 588
+ TRX: cout parttiel 11465.5 ; 34
+ TRX: 728 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 729 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 730 a pris la fréquence: 590
+ TRX: cout parttiel 11604.4 ; 35
+ TRX: 731 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 732 a pris la fréquence: 602
+ TRX: cout parttiel 11698.6 ; 35
+ TRX: 733 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 734 a pris la fréquence: 589
+ TRX: cout parttiel 11782.4 ; 35
+ TRX: 735 a pris la fréquence: 589
+ TRX: cout parttiel 11791.8 ; 35
+ TRX: 736 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 737 a pris la fréquence: 597
+ TRX: cout parttiel 11840.6 ; 36
+ TRX: 738 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 739 a pris la fréquence: 588
+ TRX: cout parttiel 11912.7 ; 36
+ TRX: 740 a pris la fréquence: 596
+ TRX: cout parttiel 11971.3 ; 36
+ TRX: 741 a pris la fréquence: 595
+ TRX: cout parttiel 11976.1 ; 36
+ TRX: 742 a pris la fréquence: 599
+ TRX: cout parttiel 12006.1 ; 36
+ TRX: 743 a pris la fréquence: 597
+ TRX: cout parttiel 12008 ; 36
+ TRX: 744 a pris la fréquence: 589
+ TRX: cout parttiel 12019.3 ; 36
+ TRX: 745 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 746 a pris la fréquence: 599
+ TRX: cout parttiel 12066.1 ; 37
+ TRX: 747 a pris la fréquence: 599
+ TRX: cout parttiel 12066.1 ; 37
+ TRX: 748 a pris la fréquence: 596
+ TRX: cout parttiel 12066.6 ; 37
+ TRX: 749 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 750 a pris la fréquence: 597
+ TRX: cout parttiel 12070 ; 37
+ TRX: 751 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 752 a pris la fréquence: 602
+ TRX: cout parttiel 12167.7 ; 37
+ TRX: 753 a pris la fréquence: 594
+ TRX: cout parttiel 12210.1 ; 37
+ TRX: 754 a pris la fréquence: 588
+ TRX: cout parttiel 12314.9 ; 37
+ TRX: 755 a pris la fréquence: 590
+ TRX: cout parttiel 12320.8 ; 37
+ TRX: 756 a pris la fréquence: 588
+ TRX: cout parttiel 12320.8 ; 37
+ TRX: 757 a pris la fréquence: 588
+ TRX: cout parttiel 12331.3 ; 38
+ TRX: 758 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 759 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 760 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 761 a pris la fréquence: 594
+ TRX: cout parttiel 12691.9 ; 41
+ TRX: 762 a pris la fréquence: 600
+ TRX: cout parttiel 12691.9 ; 41
+ TRX: 763 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 764 a pris la fréquence: 593
+ TRX: cout parttiel 12819.5 ; 41
+ TRX: 765 a pris la fréquence: 597
+ TRX: cout parttiel 12819.5 ; 41
+ TRX: 766 a pris la fréquence: 600
+ TRX: cout parttiel 12821.2 ; 41
+ TRX: 767 a pris la fréquence: 588
+ TRX: cout parttiel 12845.7 ; 41
+ TRX: 768 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ TRX: 769 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 770 a pris la fréquence: 600
+ TRX: cout parttiel 13039.3 ; 41
+ TRX: 771 a pris la fréquence: 602
+ TRX: cout parttiel 13049.9 ; 41
+ TRX: 772 a pris la fréquence: 594
+ TRX: cout parttiel 13050 ; 41
+ TRX: 773 a pris la fréquence: 589
+ TRX: cout parttiel 13115 ; 41
+ TRX: 774 a pris la fréquence: 596
+ TRX: cout parttiel 13191.1 ; 41
+ TRX: 775 a pris la fréquence: 593
+ TRX: cout parttiel 13223.5 ; 41
+ TRX: 776 a pris la fréquence: 597
+ TRX: cout parttiel 13254 ; 42
+ TRX: 777 a pris la fréquence: 590
+ TRX: cout parttiel 13254 ; 42
+ TRX: 778 a pris la fréquence: 594
+ TRX: cout parttiel 13254 ; 42
+ TRX: 779 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 780 a pris la fréquence: 597
+ TRX: cout parttiel 13255 ; 42
+ TRX: 781 a pris la fréquence: 599
+ TRX: cout parttiel 13281.1 ; 42
+ TRX: 782 a pris la fréquence: 596
+ TRX: cout parttiel 13281.1 ; 43
+ TRX: 783 a pris la fréquence: 599
+ TRX: cout parttiel 13281.2 ; 43
+ TRX: 784 a pris la fréquence: 590
+ TRX: cout parttiel 13281.2 ; 43
+ TRX: 785 a pris la fréquence: 592
+ TRX: cout parttiel 13281.2 ; 43
+ TRX: 786 a pris la fréquence: 594
+ TRX: cout parttiel 13281.4 ; 43
+ TRX: 787 a pris la fréquence: 592
+ TRX: cout parttiel 13389.6 ; 43
+ TRX: 788 a pris la fréquence: 588
+ TRX: cout parttiel 13390.5 ; 43
+ TRX: 789 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 790 a pris la fréquence: 600
+ TRX: cout parttiel 13465.6 ; 43
+ TRX: 791 a pris la fréquence: 590
+ TRX: cout parttiel 13484.5 ; 43
+ TRX: 792 a pris la fréquence: 591
+ TRX: cout parttiel 13485.2 ; 43
+ TRX: 793 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 794 a pris la fréquence: 589
+ TRX: cout parttiel 13601.1 ; 43
+ TRX: 795 a pris la fréquence: 592
+ TRX: cout parttiel 13609.1 ; 43
+ TRX: 796 a pris la fréquence: 592
+ TRX: cout parttiel 13609.2 ; 43
+ TRX: 797 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 798 a pris la fréquence: 600
+ TRX: cout parttiel 13910.7 ; 43
+ TRX: 799 a pris la fréquence: 589
+ TRX: cout parttiel 13930.5 ; 43
+ TRX: 800 a pris la fréquence: 593
+ TRX: cout parttiel 13933.6 ; 43
+ TRX: 801 a pris la fréquence: 601
+ TRX: cout parttiel 13933.6 ; 43
+ TRX: 802 a pris la fréquence: 588
+ TRX: cout parttiel 13933.7 ; 43
+ TRX: 803 a pris la fréquence: 602
+ TRX: cout parttiel 13933.7 ; 43
+ TRX: 804 a pris la fréquence: 595
+ TRX: cout parttiel 13933.7 ; 43
+ TRX: 805 a pris la fréquence: 590
+ TRX: cout parttiel 13963.3 ; 43
+ TRX: 806 a pris la fréquence: 588
+ TRX: cout parttiel 13982.6 ; 43
+ TRX: 807 a pris la fréquence: 590
+ TRX: cout parttiel 14027.4 ; 43
+ TRX: 808 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 809 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 810 a pris la fréquence: 588
+ TRX: cout parttiel 14106.4 ; 43
+ TRX: 811 a pris la fréquence: 592
+ TRX: cout parttiel 14106.9 ; 43
+ TRX: 812 a pris la fréquence: 600
+ TRX: cout parttiel 14206.9 ; 43
+ TRX: 813 a pris la fréquence: 594
+ TRX: cout parttiel 14207.6 ; 43
+ TRX: 814 a pris la fréquence: 601
+ TRX: cout parttiel 14207.8 ; 43
+ TRX: 815 a pris la fréquence: 598
+ TRX: cout parttiel 14207.9 ; 43
+ TRX: 816 a pris la fréquence: 596
+ TRX: cout parttiel 14259.2 ; 43
+ TRX: 817 a pris la fréquence: 602
+ TRX: cout parttiel 14260.8 ; 43
+ TRX: 818 a pris la fréquence: 588
+ TRX: cout parttiel 14328.4 ; 43
+ TRX: 819 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 820 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 821 a pris la fréquence: 601
+ TRX: cout parttiel 15251.1 ; 43
+ TRX: 822 a pris la fréquence: 599
+ TRX: cout parttiel 15251.2 ; 43
+ TRX: 823 a pris la fréquence: 589
+ TRX: cout parttiel 15252.4 ; 43
+ TRX: 824 a pris la fréquence: 596
+ TRX: cout parttiel 15293 ; 43
+ TRX: 825 a pris la fréquence: 594
+ TRX: cout parttiel 15311.2 ; 43
+ TRX: 826 a pris la fréquence: 592
+ TRX: cout parttiel 15386.2 ; 43
+ TRX: 827 a pris la fréquence: 592
+ TRX: cout parttiel 15386.2 ; 43
+ TRX: 828 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 829 a pris la fréquence: 597
+ TRX: cout parttiel 15580.5 ; 43
+ TRX: 830 a pris la fréquence: 600
+ TRX: cout parttiel 15580.5 ; 43
+ TRX: 831 a pris la fréquence: 589
+ TRX: cout parttiel 15580.6 ; 43
+ TRX: 832 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 833 a pris la fréquence: 601
+ TRX: cout parttiel 0 ; 0
+ TRX: 834 a pris la fréquence: 600
+ TRX: cout parttiel 16143.6 ; 45
+ TRX: 835 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 836 a pris la fréquence: 596
+ TRX: cout parttiel 16167.8 ; 45
+ TRX: 837 a pris la fréquence: 601
+ TRX: cout parttiel 16180.4 ; 45
+ TRX: 838 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 839 a pris la fréquence: 602
+ TRX: cout parttiel 16208.3 ; 45
+ TRX: 840 a pris la fréquence: 600
+ TRX: cout parttiel 16208.8 ; 45
+ TRX: 841 a pris la fréquence: 589
+ TRX: cout parttiel 16286.7 ; 45
+ TRX: 842 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 843 a pris la fréquence: 597
+ TRX: cout parttiel 16413.2 ; 46
+ TRX: 844 a pris la fréquence: 594
+ TRX: cout parttiel 16459.4 ; 46
+ TRX: 845 a pris la fréquence: 602
+ TRX: cout parttiel 16571.1 ; 46
+ TRX: 846 a pris la fréquence: 588
+ TRX: cout parttiel 16662 ; 46
+ TRX: 847 a pris la fréquence: 601
+ TRX: cout parttiel 16711.1 ; 46
+ TRX: 848 a pris la fréquence: 598
+ TRX: cout parttiel 16772 ; 46
+ TRX: 849 a pris la fréquence: 590
+ TRX: cout parttiel 16811 ; 46
+ TRX: 850 a pris la fréquence: 589
+ TRX: cout parttiel 16875.5 ; 47
+ TRX: 851 a pris la fréquence: 600
+ TRX: cout parttiel 16880.4 ; 47
+ TRX: 852 a pris la fréquence: 594
+ TRX: cout parttiel 16912.3 ; 47
+ TRX: 853 a pris la fréquence: 588
+ TRX: cout parttiel 16945.6 ; 47
+ TRX: 854 a pris la fréquence: 593
+ TRX: cout parttiel 16945.7 ; 47
+ TRX: 855 a pris la fréquence: 602
+ TRX: cout parttiel 16992.3 ; 47
+ TRX: 856 a pris la fréquence: 595
+ TRX: cout parttiel 16992.3 ; 47
+ TRX: 857 a pris la fréquence: 598
+ TRX: cout parttiel 16992.3 ; 47
+ TRX: 858 a pris la fréquence: 600
+ TRX: cout parttiel 16993.2 ; 47
+ TRX: 859 a pris la fréquence: 592
+ TRX: cout parttiel 16993.3 ; 47
+ TRX: 860 a pris la fréquence: 601
+ TRX: cout parttiel 17004.4 ; 47
+ TRX: 861 a pris la fréquence: 599
+ TRX: cout parttiel 17008.2 ; 47
+ TRX: 862 a pris la fréquence: 597
+ TRX: cout parttiel 17008.2 ; 47
+ TRX: 863 a pris la fréquence: 593
+ TRX: cout parttiel 0 ; 0
+ TRX: 864 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 865 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 866 a pris la fréquence: 596
+ TRX: cout parttiel 17192.5 ; 47
+ TRX: 867 a pris la fréquence: 600
+ TRX: cout parttiel 17193.2 ; 47
+ TRX: 868 a pris la fréquence: 593
+ TRX: cout parttiel 17201.9 ; 47
+ TRX: 869 a pris la fréquence: 589
+ TRX: cout parttiel 17202.1 ; 47
+ TRX: 870 a pris la fréquence: 595
+ TRX: cout parttiel 17238.3 ; 47
+ TRX: 871 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 872 a pris la fréquence: 593
+ TRX: cout parttiel 17316.4 ; 47
+ TRX: 873 a pris la fréquence: 588
+ TRX: cout parttiel 17316.8 ; 47
+ TRX: 874 a pris la fréquence: 602
+ TRX: cout parttiel 17317 ; 47
+ TRX: 875 a pris la fréquence: 588
+ TRX: cout parttiel 17317.1 ; 48
+ TRX: 876 a pris la fréquence: 598
+ TRX: cout parttiel 17365.3 ; 48
+ TRX: 877 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 878 a pris la fréquence: 600
+ TRX: cout parttiel 17511 ; 48
+ TRX: 879 a pris la fréquence: 588
+ TRX: cout parttiel 17535 ; 48
+ TRX: 880 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 881 a pris la fréquence: 598
+ TRX: cout parttiel 17535.3 ; 48
+ TRX: 882 a pris la fréquence: 592
+ TRX: cout parttiel 17535.3 ; 49
+ TRX: 883 a pris la fréquence: 595
+ TRX: cout parttiel 17536.6 ; 49
+ TRX: 884 a pris la fréquence: 593
+ TRX: cout parttiel 17536.7 ; 49
+ TRX: 885 a pris la fréquence: 594
+ TRX: cout parttiel 0 ; 0
+ TRX: 886 a pris la fréquence: 588
+ TRX: cout parttiel 17620.3 ; 49
+ TRX: 887 a pris la fréquence: 600
+ TRX: cout parttiel 17640.2 ; 49
+ TRX: 888 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 889 a pris la fréquence: 589
+ TRX: cout parttiel 17695.2 ; 49
+ TRX: 890 a pris la fréquence: 588
+ TRX: cout parttiel 17696.1 ; 50
+ TRX: 891 a pris la fréquence: 588
+ TRX: cout parttiel 17696.1 ; 50
+ TRX: 892 a pris la fréquence: 602
+ TRX: cout parttiel 17696.1 ; 50
+ TRX: 893 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 894 a pris la fréquence: 595
+ TRX: cout parttiel 17737.9 ; 51
+ TRX: 895 a pris la fréquence: 597
+ TRX: cout parttiel 17737.9 ; 51
+ TRX: 896 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 897 a pris la fréquence: 591
+ TRX: cout parttiel 17798.1 ; 51
+ TRX: 898 a pris la fréquence: 588
+ TRX: cout parttiel 17829.5 ; 51
+ TRX: 899 a pris la fréquence: 588
+ TRX: cout parttiel 0 ; 0
+ TRX: 900 a pris la fréquence: 592
+ TRX: cout parttiel 17882.6 ; 52
+ TRX: 901 a pris la fréquence: 594
+ TRX: cout parttiel 17888.2 ; 52
+ TRX: 902 a pris la fréquence: 596
+ TRX: cout parttiel 17954.5 ; 52
+ TRX: 903 a pris la fréquence: 600
+ TRX: cout parttiel 0 ; 0
+ TRX: 904 a pris la fréquence: 602
+ TRX: cout parttiel 18005.4 ; 52
+ TRX: 905 a pris la fréquence: 598
+ TRX: cout parttiel 18006.1 ; 52
+ TRX: 906 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 907 a pris la fréquence: 593
+ TRX: cout parttiel 18006.1 ; 52
+ TRX: 908 a pris la fréquence: 596
+ TRX: cout parttiel 0 ; 0
+ TRX: 909 a pris la fréquence: 595
+ TRX: cout parttiel 18183.6 ; 52
+ TRX: 910 a pris la fréquence: 597
+ TRX: cout parttiel 18216.6 ; 52
+ TRX: 911 a pris la fréquence: 602
+ TRX: cout parttiel 18255.1 ; 52
+ TRX: 912 a pris la fréquence: 601
+ TRX: cout parttiel 18255.2 ; 52
+ TRX: 913 a pris la fréquence: 597
+ TRX: cout parttiel 0 ; 0
+ TRX: 914 a pris la fréquence: 591
+ TRX: cout parttiel 18279.2 ; 52
+ TRX: 915 a pris la fréquence: 591
+ TRX: cout parttiel 18280.6 ; 52
+ TRX: 916 a pris la fréquence: 601
+ TRX: cout parttiel 18280.9 ; 52
+ TRX: 917 a pris la fréquence: 597
+ TRX: cout parttiel 18416.4 ; 52
+ TRX: 918 a pris la fréquence: 589
+ TRX: cout parttiel 18416.4 ; 52
+ TRX: 919 a pris la fréquence: 602
+ TRX: cout parttiel 18416.4 ; 52
+ TRX: 920 a pris la fréquence: 599
+ TRX: cout parttiel 18416.5 ; 52
+ TRX: 921 a pris la fréquence: 599
+ TRX: cout parttiel 18416.6 ; 52
+ TRX: 922 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 923 a pris la fréquence: 591
+ TRX: cout parttiel 0 ; 0
+ TRX: 924 a pris la fréquence: 592
+ TRX: cout parttiel 18768 ; 52
+ TRX: 925 a pris la fréquence: 600
+ TRX: cout parttiel 18805.9 ; 52
+ TRX: 926 a pris la fréquence: 601
+ TRX: cout parttiel 18805.9 ; 52
+ TRX: 927 a pris la fréquence: 590
+ TRX: cout parttiel 0 ; 0
+ TRX: 928 a pris la fréquence: 597
+ TRX: cout parttiel 18805.9 ; 52
+ TRX: 929 a pris la fréquence: 594
+ TRX: cout parttiel 18824.5 ; 52
+ TRX: 930 a pris la fréquence: 589
+ TRX: cout parttiel 18824.5 ; 52
+ TRX: 931 a pris la fréquence: 602
+ TRX: cout parttiel 18824.5 ; 52
+ TRX: 932 a pris la fréquence: 600
+ TRX: cout parttiel 18825.4 ; 52
+ TRX: 933 a pris la fréquence: 591
+ TRX: cout parttiel 18825.6 ; 52
+ TRX: 934 a pris la fréquence: 596
+ TRX: cout parttiel 18825.6 ; 52
+ TRX: 935 a pris la fréquence: 602
+ TRX: cout parttiel 18825.7 ; 52
+ TRX: 936 a pris la fréquence: 596
+ TRX: cout parttiel 18887.3 ; 52
+ TRX: 937 a pris la fréquence: 592
+ TRX: cout parttiel 18889.3 ; 52
+ TRX: 938 a pris la fréquence: 594
+ TRX: cout parttiel 18889.4 ; 52
+ TRX: 939 a pris la fréquence: 599
+ TRX: cout parttiel 18889.4 ; 52
+ TRX: 940 a pris la fréquence: 602
+ TRX: cout parttiel 18896.1 ; 52
+ TRX: 941 a pris la fréquence: 602
+ TRX: cout parttiel 0 ; 0
+ TRX: 942 a pris la fréquence: 599
+ TRX: cout parttiel 0 ; 0
+ TRX: 943 a pris la fréquence: 601
+ TRX: cout parttiel 19056.2 ; 53
+ TRX: 944 a pris la fréquence: 588
+ TRX: cout parttiel 19086.9 ; 53
+ TRX: 945 a pris la fréquence: 589
+ TRX: cout parttiel 19086.9 ; 53
+ TRX: 946 a pris la fréquence: 598
+ TRX: cout parttiel 19088.8 ; 53
+ TRX: 947 a pris la fréquence: 599
+ TRX: cout parttiel 19090.2 ; 54
+ TRX: 948 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 949 a pris la fréquence: 596
+ TRX: cout parttiel 19090.4 ; 54
+ TRX: 950 a pris la fréquence: 599
+ TRX: cout parttiel 19090.5 ; 54
+ TRX: 951 a pris la fréquence: 601
+ TRX: cout parttiel 19091.4 ; 54
+ TRX: 952 a pris la fréquence: 589
+ TRX: cout parttiel 19092.6 ; 54
+ TRX: 953 a pris la fréquence: 593
+ TRX: cout parttiel 19152.8 ; 54
+ TRX: 954 a pris la fréquence: 598
+ TRX: cout parttiel 19153.3 ; 54
+ TRX: 955 a pris la fréquence: 592
+ TRX: cout parttiel 0 ; 0
+ TRX: 956 a pris la fréquence: 595
+ TRX: cout parttiel 19164 ; 54
+ TRX: 957 a pris la fréquence: 601
+ TRX: cout parttiel 19166.3 ; 54
+ TRX: 958 a pris la fréquence: 599
+ TRX: cout parttiel 19185.9 ; 54
+ TRX: 959 a pris la fréquence: 591
+ TRX: cout parttiel 19186.7 ; 54
+ TRX: 960 a pris la fréquence: 599
+ TRX: cout parttiel 19227.8 ; 54
+ TRX: 961 a pris la fréquence: 600
+ TRX: cout parttiel 19228.9 ; 54
+ TRX: 962 a pris la fréquence: 596
+ TRX: cout parttiel 19236.4 ; 54
+ TRX: 963 a pris la fréquence: 597
+ TRX: cout parttiel 19256.9 ; 55
+ TRX: 964 a pris la fréquence: 596
+ TRX: cout parttiel 19267.3 ; 55
+ TRX: 965 a pris la fréquence: 600
+ TRX: cout parttiel 19268.7 ; 55
+ TRX: 966 a pris la fréquence: 596
+ TRX: cout parttiel 19398.9 ; 56
+ TRX: 967 a pris la fréquence: 597
+ TRX: cout parttiel 19419.4 ; 56
+ TRX: 968 a pris la fréquence: 592
+ TRX: cout parttiel 19456.5 ; 56
+ TRX: 969 a pris la fréquence: 598
+ TRX: cout parttiel 0 ; 0
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°° 
+
+ °°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°°° 

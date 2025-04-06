@@ -1,0 +1,39 @@
+############### Game theory approach #################
+max_gen : 2
+Instance : Seattle
+ ===========================Hypervolume===========================================
+ HV % :79.572
+ ======================================================================
+....................... Sans Nash coût séparé.......
+Meiilleur Interference score  est : 21180.9
+Meiilleur Separation score est : 0
+ ======================================================================
+....................... AVEC Nash .......
+ Pour une valeur de epsilon egale :0.1
+Meiilleur Interference score en utilisant NASH est : CI 0
+Meiilleur Separation score est en utilisant NASH:   CS 0
+------------------ MEilleur valeur nash --------------
+ Meilleur valeur de Nash  3.62855
+ Qui se trouve à la position 0 ;
+ ======================================================================
+Temps d'execution : 59.332 ms
+---- vecteur solution ---
+TRX ID , Frequency
+NNNNNNNNNNN les valeurs de nash NNNNNNNNNNNNNNNNNNNN
+ ***********solution : 0*******************
+ NASHEJ[0] : 3.62855, Interf cost 21180.9, Sep cost 5
+.................................
+ ***********solution : 1*******************
+ NASHEJ[1] : 5.69939, Interf cost 30797.5, Sep cost 0
+.................................
+NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN
+########################################################
+ ----------------LEs meilleurs solutions trouvées -------------------
+ ***********solution : 0*******************
+ Coût d'interference : 21180.9
+ Coût de séparation 5
+.................................
+ ***********solution : 1*******************
+ Coût d'interference : 30797.5
+ Coût de séparation 0
+.................................
