@@ -1,1 +1,0 @@
-mainAFP.cpp Commun/Commun.cpp Commun/Commun.h Game/Game.cpp Game/Game.h Individual/Individual.cpp Individual/Individual.h PIPlayer/PIPlayer.cpp PIPlayer/PIPlayer.h PSPlayer/PSPlayer.cpp PSPlayer/PSPlayer.h AFP/AFP.cpp AFP/AFP.h -o output
